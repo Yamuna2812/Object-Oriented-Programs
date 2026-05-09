@@ -1,0 +1,10 @@
+class Employee:
+    def set_salary(self, sal):
+        self.salary = sal
+
+    def show(self):
+        print(self.salary)
+
+obj = Employee()
+obj.set_salary(50000)
+obj.show()
