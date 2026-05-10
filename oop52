@@ -1,0 +1,6 @@
+class Hospital:
+    def admit(self):
+        print("Patient Admitted")
+
+h = Hospital()
+h.admit()
