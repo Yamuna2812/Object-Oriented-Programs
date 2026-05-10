@@ -1,0 +1,6 @@
+class Quiz:
+    def question(self):
+        print("What is Python?")
+
+q = Quiz()
+q.question()
