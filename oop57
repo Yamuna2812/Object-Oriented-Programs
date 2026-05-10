@@ -1,0 +1,6 @@
+class Payroll:
+    def salary(self):
+        print("Salary Credited")
+
+p = Payroll()
+p.salary()
