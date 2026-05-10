@@ -1,0 +1,6 @@
+class Math:
+    @staticmethod
+    def add(a, b):
+        print(a + b)
+
+Math.add(2, 3)
