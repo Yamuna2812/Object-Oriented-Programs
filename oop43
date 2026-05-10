@@ -1,0 +1,6 @@
+class Library:
+    def issue(self):
+        print("Book Issued")
+
+l = Library()
+l.issue()
