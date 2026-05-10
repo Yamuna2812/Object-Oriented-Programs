@@ -1,0 +1,6 @@
+class Hotel:
+    def book(self):
+        print("Room Booked")
+
+h = Hotel()
+h.book()
