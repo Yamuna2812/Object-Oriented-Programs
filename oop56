@@ -1,0 +1,6 @@
+class College:
+    def exam(self):
+        print("Exam Scheduled")
+
+c = College()
+c.exam()
