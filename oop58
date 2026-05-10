@@ -1,0 +1,6 @@
+class Chat:
+    def send(self):
+        print("Message Sent")
+
+c = Chat()
+c.send()
