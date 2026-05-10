@@ -1,0 +1,6 @@
+class Food:
+    def order(self):
+        print("Food Ordered")
+
+f = Food()
+f.order()
