@@ -1,0 +1,6 @@
+class Inventory:
+    def stock(self):
+        print("Stock Available")
+
+obj = Inventory()
+obj.stock()
