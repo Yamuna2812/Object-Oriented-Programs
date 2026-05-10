@@ -1,0 +1,6 @@
+class Parking:
+    def park(self):
+        print("Vehicle Parked")
+
+p = Parking()
+p.park()
