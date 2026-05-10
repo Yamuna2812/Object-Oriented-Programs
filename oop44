@@ -1,0 +1,6 @@
+class ATM:
+    def withdraw(self, amt):
+        print("Withdrawn", amt)
+
+atm = ATM()
+atm.withdraw(500)
