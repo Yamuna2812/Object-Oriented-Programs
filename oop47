@@ -1,0 +1,6 @@
+class Cart:
+    def add(self, item):
+        print(item, "added")
+
+c = Cart()
+c.add("Shoes")
