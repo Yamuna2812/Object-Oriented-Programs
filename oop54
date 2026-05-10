@@ -1,0 +1,6 @@
+class OnlineBank:
+    def transfer(self):
+        print("Money Transferred")
+
+b = OnlineBank()
+b.transfer()
