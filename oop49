@@ -1,0 +1,6 @@
+class Train:
+    def reserve(self):
+        print("Seat Reserved")
+
+obj = Train()
+obj.reserve()
