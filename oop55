@@ -1,0 +1,6 @@
+class School:
+    def attendance(self):
+        print("Attendance Marked")
+
+s = School()
+s.attendance()
